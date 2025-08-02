@@ -1,5 +1,11 @@
 # SML-Firearm-Detection
 # Firearm-detection-and-classification
+
+## 📽️ Demo Video
+
+[Click here to watch the demo on YouTube](https://www.youtube.com/watch?v=sK5_AuKek6I)
+
+
 **Main idea**
 
 The project aims to address contemporary security challenges by harnessing cutting-edge technology to promptly identify firearms and classify them, thus empowering law enforcement agencies with enhanced threat assessment and response capabilities.
